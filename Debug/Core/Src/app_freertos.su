@@ -1,0 +1,8 @@
+../Drivers/STM32U0xx_HAL_Driver/Inc/stm32u0xx_ll_spi.h:371:22:LL_SPI_Enable	16	static
+../Drivers/STM32U0xx_HAL_Driver/Inc/stm32u0xx_ll_spi.h:980:26:LL_SPI_IsActiveFlag_BSY	16	static
+../Drivers/STM32U0xx_HAL_Driver/Inc/stm32u0xx_ll_spi.h:1371:22:LL_SPI_TransmitData8	24	static
+../Core/Src/app_freertos.c:134:6:MX_FREERTOS_Init	8	static
+../Core/Src/app_freertos.c:188:6:StartDefaultTask	16	static
+../Core/Src/app_freertos.c:206:6:genPrimesMain	32	static
+../Core/Src/app_freertos.c:245:6:formatterMain	40	static
+../Core/Src/app_freertos.c:286:6:SPIOutMain	56	static
