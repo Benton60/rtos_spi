@@ -1,5 +1,7 @@
-.Debug/
+Debug/
 Release/
 .metadata
+*.launch
+.settings
 .settingsproject
 
