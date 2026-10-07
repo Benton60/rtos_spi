@@ -202,6 +202,21 @@ void StartDefaultTask(void *argument)
 * @param argument: Not used
 * @retval None
 */
+
+
+
+
+
+/*
+ * Benton Hershberger & Ethan Watkins
+ * Week 6
+ *
+ *
+ *  PC[3-13]	GPIOC[3-13]		used for inputting potential prime numbers
+ *  PC[2] 		GPIOC[2]		SPI_SELECT
+ *  PA[12]		GPIOA[12]		SPI_MOSI
+ *  PB[3] 		GPIOB[3] 		SPI_CLK
+ */
 /* USER CODE END Header_genPrimesMain */
 void genPrimesMain(void *argument)
 {
